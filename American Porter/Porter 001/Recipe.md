@@ -13,7 +13,7 @@
 | Target FG | 1.018 |
 | Target ABV | 6.16% |
 | Estimated IBU | 26.78 |
-| Estimated Color | ![#F00903](https://placehold.it/15/600903/000000?text=+) `#600903` |
+| Estimated Color | ![#600903](https://placehold.it/15/600903/000000?text=+) `#600903` |
 
 ### Yeast: [Wyeast - Scottish Ale 1728](https://wyeastlab.com/yeast-strain/scottish-ale)
 
