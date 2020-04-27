@@ -45,7 +45,7 @@ No non-fermentable adjuncts added to this recipe.
 ### Water Profile
 
 | Amount | Name |
-|---|---|---|---|---|
+|---|---|
 | 5 g | Calcium Chloride (anhydrous) |
 | 3 g | Epsom Salt |
 | 6 g | Gypsum |
