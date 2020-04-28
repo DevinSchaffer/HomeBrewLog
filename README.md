@@ -4,9 +4,10 @@ Recipe history for all things alcoholic.
 Here's a recipe template.
 
 # Beer 001
-## Author: [Someone]
+### Style
+### Author: [Someone]
 
-### Method: [2-vessel/3-vessel/BIAB]
+## Method: [2-vessel/3-vessel/BIAB]
 
 ### Target Brew Info
 | Stat | Value |
@@ -22,78 +23,86 @@ Here's a recipe template.
 | Estimated IBU | 30.05 |
 | Estimated Color | ![#000000](https://placehold.it/15/000000/000000?text=+) `#000000` |
 
-### Yeast: Safale S-04
+### Yeast/Bacteria
+| Type | Name |
+|---|---|
+| Yeast | Safale S-04 |
+| Bacteria | OYL-605 |
 
-### Fermentables
-
+### Mash Bill
 | Amount | Fermentable | L° | Bill % |
 |---|---|---|---|
-
-<!-- | 8 lb | Maris Otter | 2.3 | 69.6% |
+<!--
+| 8 lb | Maris Otter | 2.3 | 69.6% |
 | 2 lb | Light Munich | 8 | 17.4% |
 | 12 oz | Caramel / Crystal 80L | 80 | 6.5% |
-| 12 oz | Special Roast | 50 | 6.5% | -->
+| 12 oz | Special Roast | 50 | 6.5% |
+-->
 
-### Adjuncts
+### Hops
+| Amount | Variety | AA | Bill % |
+|---|---|---|---|
+<!-- 
+| 1 oz | Northern Brewer | 9.3 | 33.3% |
+| 1 oz | Styrian Goldings | 5.5 | 33.3% |
+| 1 oz | Fuggles | 4.5 | 33.3% |
+-->
 
-| Amount | Ingredient | Bill % |
-|---|---|---|
+### Water Chemistry
+| Ion | ppm |
+|---|---|
+| Ca+2 | 75 |
+| Mg+2 | 5 |
+| SO4-2 | 150 |
+| Na+ | 10 |
+| Cl- | 50 |
+| HCO3- | 0 |
 
-<!-- OR -->
-<!-- No non-fermentable adjuncts added to this recipe. -->
+## Steps (5 gal)
 
-### Hop Schedule
+### Salts
+| Name | Amount |
+|---|---|
+<!--
+| Gypsum | 4.5g |
+| CaCl2 | 1.3g |
+| Epsom | 0.9g |
+| NaCl | 0.5g |
+-->
 
-| Amount | Variety | Type | AA | Use | Time | IBU | Bill % |
-|---|---|---|---|---|---|---|---|
-
-<!-- | 1 oz | Northern Brewer | Pellet | 9.3 | Boil | 30 min | 24.02 | 33.3% |
-| 1 oz | Styrian Goldings | Pellet | 5.5 | Boil | 10 min | 6.7 | 33.3% |
-| 1 oz | Fuggles | Pellet | 4.5 | Boil | 5 min | 3.01 | 33.3% | -->
-
-### Water Profile
-
-#### Requirements (1.XX qt/lb)
-
+### Mash
 | Amount | Description | Temp | Time |
 |---|---|---|---|
-
-<!-- | 7.4 gal | Total | N/A | N/A |
+<!--
+| 7.4 gal | Total | N/A | N/A |
 | 3.8 gal | Strike | 152 °F | 60 min |
-| 3.6 gal | Fly Sparge | 170 °F | 30 min | -->
+| 3.6 gal | Fly Sparge | 170 °F | 30 min |
+| 1.5 gal | Rinse | Room |
+-->
 
-#### Salts
+1. Do a thing
+1. Do a second thing
+1. Final thing
 
-| Amount | Name |
-|---|---|
+### Hop Schedule
+| Amount | Variety | Time |
+|---|---|---|
+<!--
+| 0.5 oz | Northern Brewer | First Wort | 24.02 |
+| 0.5 oz | Northern Brewer | -60 min | 24.02 |
+| 1 oz | Styrian Goldings  | -10 min | 6.7 |
+| 0.5 oz | Fuggles | 0 min |
+| 0.5 oz | Fuggles | Whirlpool |
+-->
 
-<!-- | 3.8 g | Calcium Chloride (anhydrous) |
-| 1.5 g | Epsom Salt |
-| 3.8 g | Gypsum |
-| 3 g | Baking Soda | -->
+### Post-Boil
 
-### Steps
+1. Do a thing
+1. Do a second thing
+1. Final thing
 
-#### Mash
+### Finishing
 
-- [ ] Do a thing
-- [ ] Do a second thing
-- [ ] Final thing
-
-#### Pre-Boil
-
-- [ ] Do a thing
-- [ ] Do a second thing
-- [ ] Final thing
-
-#### Post-Boil
-
-- [ ] Do a thing
-- [ ] Do a second thing
-- [ ] Final thing
-
-#### Finishing
-
-- [ ] Do a thing
-- [ ] Do a second thing
-- [ ] Final thing
+1. Do a thing
+1. Do a second thing
+1. Final thing
