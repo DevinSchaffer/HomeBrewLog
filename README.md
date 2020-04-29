@@ -15,11 +15,14 @@ Here's a recipe template.
 | Boil Time | 30 min |
 | Batch Size | 5 gallons (keg yield) |
 | Pre Boil Size | 6 gallons |
+| Pre Boil pH | 5.3 |
 | Post Boil Size | 5.3 gallons (0.3 gal expected loss in fermentor) |
+| Post Boil pH | 4.9 |
 | Target Mash pH | 5.4 |
 | Target OG | 1.0XX |
 | Target FG | 1.0XX |
 | Target ABV | 5.00% |
+| Target Final pH | 4.9 |
 | Estimated IBU | 30.05 |
 | Estimated Color | ![#000000](https://placehold.it/15/000000/000000?text=+) `#000000` |
 
@@ -40,12 +43,23 @@ Here's a recipe template.
 -->
 
 ### Hops
-| Amount | Variety | AA | Bill % |
-|---|---|---|---|
+| Amount | Variety | AA | Type | Bill % |
+|---|---|---|---|---|
 <!-- 
-| 1 oz | Northern Brewer | 9.3 | 33.3% |
-| 1 oz | Styrian Goldings | 5.5 | 33.3% |
-| 1 oz | Fuggles | 4.5 | 33.3% |
+| 1 oz | Northern Brewer | 9.3 | Pellet | 50% |
+| 1 oz | Styrian Goldings | 5.5 | Whole | 50% |
+| 5 ml | Columbus | 61.1 | Hop Shot |  |
+-->
+
+### Other Ingredients
+| Type | Amount |
+|---|---|
+<!--
+| Water | 7.4 gal |
+| Apricots | 3 lb |
+| Dextrose | 300g |
+| Whirlfoc | 1 tab |
+| Gelatin | 1 envelope |
 -->
 
 ### Water Chemistry
@@ -58,10 +72,11 @@ Here's a recipe template.
 | Cl- | 50 |
 | HCO3- | 0 |
 
-## Steps (5 gal)
+## Steps
 
 ### Salts
-| Name | Amount |
+If using distilled water:
+| Salt | Amount |
 |---|---|
 <!--
 | Gypsum | 4.5g |
@@ -88,11 +103,10 @@ Here's a recipe template.
 | Amount | Variety | Time |
 |---|---|---|
 <!--
-| 0.5 oz | Northern Brewer | First Wort | 24.02 |
-| 0.5 oz | Northern Brewer | -60 min | 24.02 |
-| 1 oz | Styrian Goldings  | -10 min | 6.7 |
-| 0.5 oz | Fuggles | 0 min |
-| 0.5 oz | Fuggles | Whirlpool |
+| 1 oz | Northern Brewer | First Wort |
+| 5 ml | Hop Shot | -60 min |
+| 0.5 oz | Styrian Goldings | 0 min |
+| 0.5 oz | Styrian Goldings | Whirlpool 15 min (180 F) |
 -->
 
 ### Post-Boil
